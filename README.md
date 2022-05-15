@@ -54,7 +54,7 @@ For the next step, we train the GNN model with the additional pseudo-labels and 
 To reproduce the ValidUtil results:
 
 ```shell
-cd citation/
+cd validutil/
 ./final_scripts.sh
 ```
 
