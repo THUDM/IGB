@@ -1,11 +1,10 @@
 # IGB
 
-Rethinking the Setting of Semi-supervised Learning on Graphs. (Li et al., IJCAI 2022)
+[Rethinking the Setting of Semi-supervised Learning on Graphs.](https://arxiv.org/abs/2205.14403) (Li et al., IJCAI 2022)
 
 ## Overview
-
+Here we present the PyTorch implementation of ValidUtil, IGB evaluation pipeline and the script to reproduce our results. \
 The repository is organised as follows:
-
 * `dataset/` contains the implementation of the 4 datasets in **IGB**.
 * `model/` contains the implementation of the GNN models in **IGB**.
 * `scripts/` contains the `shell` scripts to reproduce **IGB** evaluation results.
